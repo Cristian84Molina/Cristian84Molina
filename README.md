@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  ¡Hola! Soy Cristian Molina, un Desarrollador FullStack apasionado con más de 13 años de experiencia en liderazgo y gestión. Mi formación técnica, combinada con mi historial en el mundo empresarial y cultural, me ha permitido desarrollar un enfoque integral para abordar desafíos complejos.
+  ¡Hola! Soy Cristian Molina, un apasionado Desarrollador FullStack con experiencia en tecnologías como JavaScript, React, Redux, NodeJS, Express y PostgreSQL. Mi pasión por la programación se ha forjado a lo largo de mi recorrido profesional, que combina tanto el mundo del desarrollo como la gestión de equipos.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  Mi combinación de habilidades en desarrollo técnico y liderazgo me permite no solo crear soluciones tecnológicas de alta calidad, sino también dirigir y guiar equipos hacia el éxito. Estoy comprometido con la excelencia y la mejora continua.
+  Graduado del Bootcamp Henry, he consolidado mis habilidades a través de la creación de proyectos desafiantes. Destaco por haber realizado un Proyecto Individual (PI) donde apliqué mis conocimientos , y también he colaborado en un Proyecto Final de equipo (PF) que mostró mi capacidad para trabajar de manera colaborativa.
 </p>
 
 <p align="center">
